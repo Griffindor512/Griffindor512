@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Griffindor512
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Minecraft Mods
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email: bryan-chen2013@outlook.com
 
